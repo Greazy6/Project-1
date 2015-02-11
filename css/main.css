@@ -3,17 +3,23 @@
     -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     box-sizing: border-box;
-}
+} /* removed spaces and line everything up */
+
+
 * {
     font-family: "Kalimati",Verdana, sans-serif;
     color: #666666;
 }
+
+
 h1 {
     color: #666666;
     font-size: 48px;
     line-height: 100px;
     margin-bottom: 5px;
 }
+
+
 h2 {
     font-size: 26px;
     line-height: 20px;
@@ -23,6 +29,8 @@ h2 {
     margin-right: 20px;
     margin-bottom: 40px;
 }
+
+
 .box {
     border: 1px solid #ccc;
     font-size: 20px;
@@ -30,6 +38,8 @@ h2 {
     margin-top: 26px;
     margin-right: 1px;
 }
+
+
 .features {
     height: 223px;
     width: 375px;
@@ -37,12 +47,18 @@ h2 {
     margin: 15px  15px;
     padding: 30px  30px;
 }
+
+
 ul {
     padding-left: 10%;
 }
+
+
 li {
     padding-top: 1%;
 }
+
+
 p {
     line-height: 30px;
 }
