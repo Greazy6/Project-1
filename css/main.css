@@ -1,61 +1,44 @@
 * {
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    -ms-box-sizing: border-box;
-    box-sizing: border-box;
-} /* removed spaces and line everything up */
-
-
-* {
     font-family: "Kalimati",Verdana, sans-serif;
     color: #666666;
-}
+}/* 6.72 is less then 7.77*/
 
 
 h1 {
-    color: #666666;
-    font-size: 48px;
-    line-height: 100px;
-    margin-bottom: 5px;
-}
+    color: #666;
+    font-size : 48px;
+    padding : 24px 24px 24px 24px;
+}/* this actually snapped into place*/
 
 
-h2 {
-    font-size: 26px;
-    line-height: 20px;
+h2{
     color: #f07c17;
-    padding-bottom: 25px;
-    margin-top: 5px;
-    margin-right: 20px;
-    margin-bottom: 40px;
+    font-size: 26px;
 }
 
 
-.box {
-    border: 1px solid #ccc;
+.box{
     font-size: 20px;
     padding: 48px 10px;
-    margin-top: 26px;
-    margin-right: 1px;
+    border: 1px solid #ccc;
 }
 
 
-.features {
+.features{
     height: 223px;
     width: 375px;
-    outline: solid 1px #ccc; /* shortened the c's */
     margin: 15px  15px;
     padding: 30px  30px;
 }
 
 
 ul {
-    padding-left: 10%;
-}
+    padding: 8%;
+}/* this took alot of fine tunement*/
 
 
 li {
-    padding-top: 1%;
+    padding: 1%;
 }
 
 
